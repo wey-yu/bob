@@ -17,3 +17,4 @@ EXPRESS_PORT=8080
 DEV_ROOM=github
 ```
 
+Add Bob to the `github` channel
