@@ -32,7 +32,7 @@ module.exports =  (robot) =>  {
     res.send(`😀 ${res.message.user.name}`);
   });
 
-  robot.router.post(`/hey/indy`, (req, res) => {
+  robot.router.post(`/hey/bob`, (req, res) => {
 
     let infos = getInfosWhenEvent(req)
     
